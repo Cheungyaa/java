@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c2f695-d54c-4bf6-b682-ee5c41cf4a61" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CAse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaymentTest.java" afterDir="false" />
+    <list default="true" id="94c2f695-d54c-4bf6-b682-ee5c41cf4a61" name="변경" comment="sdasdas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1742966611595</updated>
     </task>
+    <task id="LOCAL-00001" summary="sdasdas">
+      <option name="closed" value="true" />
+      <created>1744175490949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744175490949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdasdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdasdas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
