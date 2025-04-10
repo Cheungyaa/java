@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 
 int main() {
     float string[5];
