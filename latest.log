@@ -1,0 +1,1672 @@
+[17:18:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:18:54] [ServerMain/INFO]: Loaded 7 recipes
+[17:18:54] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:18:54] [Server thread/INFO]: Loading properties
+[17:18:54] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[17:18:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:18:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:18:55] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[17:18:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[17:18:55] [Server thread/INFO]: Default game type: SURVIVAL
+[17:18:55] [Server thread/INFO]: Generating keypair
+[17:18:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:18:55] [Server thread/INFO]: Using epoll channel type
+[17:18:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:18:55] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[17:18:55] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'MythicMobs' for files 'plugins/MythicMobs-5.4.1.jar' and 'plugins/MythicMobs-5.7.2.jar' in 'plugins'
+[17:18:55] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemsAdder] Loading 1 libraries... please wait
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemsAdder] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/org/apache/httpcomponents/httpmime/4.5.14/httpmime-4.5.14.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemsAdder] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemsAdder] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemsAdder] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [ItemsAdder] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [SkBee] Loading 2 libraries... please wait
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [SkBee] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [SkBee] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[17:18:56] [Server thread/INFO]: [SpigotLibraryLoader] [SkBee] Loaded library /home/netjjang4/minecraft/server/서버팩/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[17:18:56] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:18:58] [Server thread/WARN]: Legacy plugin skUtilities v0.9.2 does not specify an api-version.
+[17:18:58] [Server thread/WARN]: Legacy plugin SkEtcR v3.3 does not specify an api-version.
+[17:18:58] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.128
+[17:18:58] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[17:18:58] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.3-SNAPSHOT-753;1b2e2fe
+[17:18:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5531c22f]
+[17:18:59] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[17:18:59] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.0.0
+[17:18:59] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.1) has not yet been tested! Proceed with caution.
+[17:19:00] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[17:19:00] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[17:19:00] [Server thread/INFO]: [MagicSpells] Loading server plugin MagicSpells v4.0-Beta-13-patch-1
+[17:19:00] [Server thread/INFO]: [HolographicDisplays] Loading server plugin HolographicDisplays v3.0.4
+[17:19:00] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.32-SNAPSHOT (build 3108)
+[17:19:00] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA}
+[17:19:00] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[17:19:00] [Server thread/INFO]: [MythicMobs] §4M§6y§6t§6h§2i§2c§2 §3E§3n§1a§1b§1l§5e§5d§4!
+[17:19:00] [Server thread/INFO]: [LoneLibs] Loading server plugin LoneLibs v1.0.45
+[17:19:00] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[17:19:00] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.6.1
+[17:19:00] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.7.3
+[17:19:00] [Server thread/INFO]: [ItemsAdder] Loading server plugin ItemsAdder v3.6.3-beta-14
+[17:19:00] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v2.16.1
+[17:19:00] [Server thread/INFO]: [Lusk] Loading server plugin Lusk v1.1.1
+[17:19:00] [Server thread/INFO]: [BetterHud] Loading server plugin BetterHud vbeta-23
+[17:19:00] [Server thread/INFO]: [Skellett] Loading server plugin Skellett v2.0.9
+[17:19:00] [Server thread/INFO]: [skUtilities] Loading server plugin skUtilities v0.9.2
+[17:19:00] [Server thread/INFO]: [skript-reflect] Loading server plugin skript-reflect v2.4
+[17:19:00] [Server thread/INFO]: [DeadChest] Loading server plugin DeadChest v4.21.1
+[17:19:00] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[17:19:00] [Server thread/INFO]: [CosmeticsCore] Loading server plugin CosmeticsCore v1.2.2f
+[17:19:00] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.0.3
+[17:19:00] [Server thread/INFO]: [SkEtcR] Loading server plugin SkEtcR v3.3
+[17:19:00] [Server thread/INFO]: [skript-citizens] Loading server plugin skript-citizens v1.0.0
+[17:19:00] [Server thread/INFO]: [HeadDB] Loading server plugin HeadDB v5.0.0-rc.8
+[17:19:00] [Server thread/INFO]: [skript-itemsadder] Loading server plugin skript-itemsadder v1.5
+[17:19:00] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[17:19:00] [Server thread/INFO]: [skRayFall] Loading server plugin skRayFall v1.9.28
+[17:19:00] [Server thread/INFO]: [CustomCrops] Loading server plugin CustomCrops v3.6.10
+[17:19:00] [Server thread/INFO]: [SkQuery] Loading server plugin SkQuery v4.1.10
+[17:19:00] [Server thread/INFO]: [MCPets] Loading server plugin MCPets v4.1.2
+[17:19:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mcpets [1.0.0]
+[17:19:00] [Server thread/INFO]: [MCPets] : mcpets-dismount flag registered successfully !
+[17:19:00] [Server thread/INFO]: [MCPets] : mcpets-despawn flag registered successfully !
+[17:19:00] [Server thread/INFO]: [MCPets] : mcpets-dismount-flying flag registered successfully !
+[17:19:00] [Server thread/INFO]: [MCPets] : mcpets-pet-player-damage flag registered successfully !
+[17:19:00] [Server thread/INFO]: [PermSk] Loading server plugin PermSk v1.1.1-LEGACY-1.16
+[17:19:00] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.13
+[17:19:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:19:00] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
+[17:19:00] [Server thread/INFO]:         __    
+[17:19:00] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.128
+[17:19:00] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[17:19:00] [Server thread/INFO]: 
+[17:19:00] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:19:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:19:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:19:01] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:19:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1817ms)
+[17:19:02] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:19:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:19:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:19:02] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:19:02] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[17:19:02] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-753;1b2e2fe
+[17:19:02] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[17:19:02] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[17:19:02] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:19:02] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[17:19:02] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R1.PaperweightFaweAdapter as the Bukkit adapter
+[17:19:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.0.0
+[17:19:03] [Server thread/INFO]: [LoneLibs] Enabling LoneLibs v1.0.45
+[17:19:03] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.6.1
+[17:19:03] [Server thread/INFO]: Preparing level "world"
+[17:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:19:03] [Server thread/INFO]: Time elapsed: 161 ms
+[17:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:19:03] [Server thread/INFO]: Time elapsed: 28 ms
+[17:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:19:03] [Server thread/INFO]: Time elapsed: 38 ms
+[17:19:03] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[17:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[17:19:03] [Server thread/INFO]: [WorldGuard] Loading region data...
+[17:19:03] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[17:19:04] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 263 build(s) out of date.
+You are running build 753, the latest version is build 1016.
+Update at https://www.spigotmc.org/resources/13932/
+[17:19:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[17:19:04] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[17:19:04] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[17:19:04] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[17:19:04] [Server thread/INFO]: Preparing start region for dimension minecraft:rpgworld
+[17:19:04] [Server thread/INFO]: Time elapsed: 499 ms
+[17:19:04] [Server thread/INFO]: [WorldGuard] (RPGWORLD) TNT ignition is PERMITTED.
+[17:19:04] [Server thread/INFO]: [WorldGuard] (RPGWORLD) Lighters are PERMITTED.
+[17:19:04] [Server thread/INFO]: [WorldGuard] (RPGWORLD) Lava fire is PERMITTED.
+[17:19:04] [Server thread/INFO]: [WorldGuard] (RPGWORLD) Fire spread is UNRESTRICTED.
+[17:19:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'RPGWORLD'
+[17:19:04] [Server thread/INFO]: Preparing start region for dimension minecraft:village
+[17:19:05] [Server thread/INFO]: Time elapsed: 77 ms
+[17:19:05] [Server thread/INFO]: [WorldGuard] (village) TNT ignition is PERMITTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] (village) Lighters are PERMITTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] (village) Lava fire is PERMITTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] (village) Fire spread is UNRESTRICTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'village'
+[17:19:05] [Server thread/INFO]: Preparing start region for dimension minecraft:wild
+[17:19:05] [Server thread/INFO]: Time elapsed: 278 ms
+[17:19:05] [Server thread/INFO]: [WorldGuard] (wild) TNT ignition is PERMITTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] (wild) Lighters are PERMITTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] (wild) Lava fire is PERMITTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] (wild) Fire spread is UNRESTRICTED.
+[17:19:05] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'wild'
+[17:19:05] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[17:19:05] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[17:19:05] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[17:19:05] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v4.0-Beta-13-patch-1
+[17:19:05] [Server thread/INFO]: [MagicSpells] [ACF] Enabled Asynchronous Tab Completion Support!
+[17:19:05] [Server thread/INFO]: [MagicSpells] Found volatile code handler for v1_20_R1.
+[17:19:05] [Server thread/INFO]: [MagicSpells] Initializing permissions
+[17:19:05] [Server thread/INFO]: [MagicSpells] Loading magic items...
+[17:19:05] [Server thread/INFO]: [MagicSpells] ...0 magic items loaded
+[17:19:05] [Server thread/INFO]: [MagicSpells] Loading recipes...
+[17:19:05] [Server thread/INFO]: [MagicSpells] ...0 recipes loaded
+[17:19:05] [Server thread/INFO]: [MagicSpells] Loading spells...
+[17:19:06] [Server thread/WARN]: [MagicSpells] Need help? Check out our discord: discord.gg/6bYqnNy
+[17:19:06] [Server thread/INFO]: [MagicSpells] ...spells loaded: 55
+[17:19:06] [Server thread/INFO]: [MagicSpells] Finalizing perms...
+[17:19:06] [Server thread/INFO]: [MagicSpells] ...done
+[17:19:06] [Server thread/INFO]: [MagicSpells] Initializing spells...
+[17:19:06] [Server thread/WARN]: [MagicSpells] MultiSpell 'wizard_src_set' has an invalid spell 'wariar_src_place' defined!
+[17:19:06] [Server thread/WARN]: [MagicSpells] AreaEffectSpell 'assasin_slc_area' attempted to use invalid spell 'assasin_slc_pain'
+[17:19:06] [Server thread/WARN]: [MagicSpells] MultiSpell 'ranger_src_set' has an invalid spell 'wariar_src_place' defined!
+[17:19:06] [Server thread/WARN]: [MagicSpells] MultiSpell 'ranger_lc_set' has an invalid spell 'ranger_lc_pp' defined!
+[17:19:06] [Server thread/INFO]: [MagicSpells] ...done
+[17:19:06] [Server thread/INFO]: [MagicSpells] Initializing storage handler...
+[17:19:06] [Server thread/INFO]: [MagicSpells] ...done
+[17:19:06] [Server thread/INFO]: [MagicSpells] Loading online player spellbooks...
+[17:19:06] [Server thread/INFO]: [MagicSpells] ...done
+[17:19:06] [Server thread/INFO]: [MagicSpells] Restored cooldowns
+[17:19:06] [Server thread/INFO]: [MagicSpells] Loading cast listeners...
+[17:19:06] [Server thread/INFO]: [MagicSpells] ...done
+[17:19:06] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
+[17:19:06] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.32-SNAPSHOT (build 3108)
+[17:19:06] [Server thread/INFO]: [Citizens] Loading external libraries
+[17:19:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
+[17:19:06] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[17:19:07] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: Citizens
+[17:19:07] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA}
+[17:19:07] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.1)...
+[17:19:07] [Server thread/INFO]: [MythicMobs] The server is running PaperSpigot; enabled PaperSpigot exclusive functionality
+[17:19:08] [Server thread/INFO]: [MythicMobs] Mythic HolographicDisplays Support has been enabled!
+[17:19:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
+[17:19:08] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
+[17:19:08] [Server thread/INFO]: [MythicMobs] Mythic ProtocolLib Support has been enabled!
+[17:19:08] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
+[17:19:08] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[17:19:08] [Server thread/INFO]: [MythicMobs] Base directory /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/SavedData
+[17:19:08] [Server thread/INFO]: [MythicMobs] Module directory /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/SavedData/worlds
+[17:19:09] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[17:19:09] [Server thread/INFO]: [MythicMobs] Loading Items...
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[17:19:10] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:10] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:10] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:10] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat ATTACK_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat ATTACK_SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat BONUS_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_RESILIENCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_REDUCTION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat DEFENSE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat DODGE_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat DODGE_NEGATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat HEALTH from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat HEALTH_REGENERATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat LIFESTEAL_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat LIFESTEAL_POWER from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat MOVEMENT_SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_NEGATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_POWER from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_COUNTERATTACK from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_GENERIC from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_BLUNT from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_SHARP from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_BLUNT from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_SHARP from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat FIRE_RESISTANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading stat SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[17:19:10] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[17:19:10] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[17:19:10] [Server thread/WARN]: [MythicMobs] --| Mob: Nocsy_Chibi_Tree_Golem | File: /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/Packs/Nocsy/Mobs/nocsy_chibi_tree_golem.yml
+[17:19:10] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill Nocsy_Chibi_Tree_Golem-Effect
+[17:19:10] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=Nocsy_Chibi_Tree_Golem<&da>Effect}
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 80 mobs.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 279 skills.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 112 mythic items.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ Loaded 7 mob spawners.
+[17:19:10] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[17:19:10] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[17:19:10] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.4.1 ( build ${CI_COMMIT_SHORT_SHA} ) has been successfully loaded!
+[17:19:10] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[17:19:10] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[17:19:10] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[17:19:11] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:19:11] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:19:11] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[17:19:11] [Server thread/INFO]: [Essentials] Using locale en
+[17:19:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:19:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:19:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[17:19:11] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[17:19:11] [Server thread/INFO]: [Skript] Enabling Skript v2.7.3
+[17:19:12] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] A new version of Skript is available: 2.10.0-pre1 (you're currently running 2.7.3)
+[17:19:12] [ForkJoinPool.commonPool-worker-1/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.10.0-pre1/Skript-2.10.0-pre1.jar>https://github.com/SkriptLang/Skript/releases/download/2.10.0-pre1/Skript-2.10.0-pre1.jar
+[17:19:16] [Server thread/INFO]: [Skript] Loaded 232530 aliases in 5220ms
+[17:19:17] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[17:19:17] [Server thread/INFO]: [ItemsAdder] Enabling ItemsAdder v3.6.3-beta-14
+[17:19:17] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[17:19:17] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[17:19:17] [Server thread/INFO]: [ItemsAdder] 
+  ___  ___        __        __   __   ___  __      ItemsAdder 3.6.3-beta-14
+|  |  |__   |\/| /__`  /\  |  \ |  \ |__  |__)     LoneLibs 1.0.45
+|  |  |___  |  | .__/ /--\ |__/ |__/ |___ |  \     Paper git-Paper-196 (MC: 1.20.1)
+                                               
+[17:19:17] [Server thread/INFO]: [ItemsAdder] Registered Citizens NPC Trait: customentity
+[17:19:17] [Server thread/INFO]: [ItemsAdder] Registered Skript API
+[17:19:17] [Server thread/INFO]: [ItemsAdder] [Host] Starting self-host webserver on port: 8163
+[17:19:17] [Server thread/INFO]: [SkBee] Enabling SkBee v2.16.1
+[17:19:18] [Server thread/INFO]: [SkBee] Other Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Loading NBTApi...
+[17:19:18] [Server thread/INFO]: [SkBee] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[17:19:18] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[17:19:18] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
+[17:19:18] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Display Entity elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Fishing elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] RayTrace elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Scoreboard Objective Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Minecraft Tag elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Team Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
+[17:19:18] [Server thread/INFO]: [SkBee] World Border Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] It looks like another addon registered 'environment' already.
+[17:19:18] [Server thread/INFO]: [SkBee] You may have to use their environment options in SkBee's 'world creator' system.
+[17:19:18] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
+[17:19:18] [Server thread/INFO]: [SkBee] Loaded elements:
+[17:19:18] [Server thread/INFO]: [SkBee]  - 46 events
+[17:19:18] [Server thread/INFO]: [SkBee]  - 48 effects
+[17:19:18] [Server thread/INFO]: [SkBee]  - 220 expressions
+[17:19:18] [Server thread/INFO]: [SkBee]  - 20 conditions
+[17:19:18] [Server thread/INFO]: [SkBee]  - 2 sections
+[17:19:18] [Server thread/INFO]: [SkBee] Checking for update...
+[17:19:18] [Server thread/INFO]: [SkBee] Plugin is not up to date!
+[17:19:18] [Server thread/INFO]: [SkBee]  - Current version: v2.16.1
+[17:19:18] [Server thread/INFO]: [SkBee]  - Available update: v3.7.0
+[17:19:18] [Server thread/INFO]: [SkBee]  - Download available at: https://github.com/ShaneBeee/SkBee/releases
+[17:19:18] [Server thread/INFO]: [SkBee] Successfully enabled v2.16.1 in 0.58 seconds
+[17:19:18] [Server thread/INFO]: [Lusk] Enabling Lusk v1.1.1
+[17:19:18] [Server thread/INFO]: [Skript]     Missing version in default.lang
+[17:19:18] [Server thread/INFO]: [Lusk] Has been enabled!
+[17:19:18] [Server thread/INFO]: [Lusk] Checking for updates.
+[17:19:18] [Server thread/INFO]: [Lusk] Lusk is NOT up to date!
+[17:19:18] [Server thread/INFO]: [Lusk] > Current Version: 1.1.1
+[17:19:18] [Server thread/INFO]: [Lusk] > Latest Version: 1.3.1
+[17:19:18] [Server thread/INFO]: [Lusk] > Download it at: https://github.com/JakeGBLP/Lusk/releases
+[17:19:18] [Server thread/INFO]: [BetterHud] Enabling BetterHud vbeta-23
+[17:19:19] [Server thread/INFO]: [BetterHud] Getting minecraft default version...
+[17:19:19] [Server thread/INFO]: [BetterHud] Current minecraft version: 1.20.1
+[17:19:19] [Server thread/INFO]: [BetterHud] Unzip textures...
+[17:19:19] [Server thread/INFO]: [Skellett] Enabling Skellett v2.0.9
+[17:19:20] [ForkJoinPool.commonPool-worker-1/WARN]: [BetterHud] New version found: 1.11.3
+[17:19:20] [ForkJoinPool.commonPool-worker-1/WARN]: [BetterHud] Download: https://www.spigotmc.org/resources/115559
+[17:19:20] [Server thread/INFO]: [Skellett] Registered 27 Effects, 11 Conditions, 70 Expressions and 16 Events
+[17:19:20] [Server thread/INFO]: [skUtilities] Enabling skUtilities v0.9.2*
+[17:19:20] [Server thread/INFO]: [skUtilities] v0.9.2: loaded modules (Conversions, Files, Yaml, Urls, Utilities) in 40ms
+[17:19:20] [Server thread/INFO]: [skript-reflect] Enabling skript-reflect v2.4
+[17:19:20] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.21.1
+[17:19:20] [Server thread/INFO]: [CosmeticsCore] Enabling CosmeticsCore v1.2.2f
+[17:19:20] [Server thread/INFO]: [TAB] Enabling TAB v4.0.3
+[17:19:20] [Server thread/INFO]: [TAB] Server version: 1.20.1 (v1_20_R1)
+[17:19:20] [Server thread/INFO]: [TAB] Loaded NMS hook in 18ms
+[17:19:20] [Server thread/INFO]: [TAB] Enabled in 125ms
+[17:19:20] [Server thread/INFO]: [SkEtcR] Enabling SkEtcR v3.3*
+[17:19:20] [Server thread/INFO]: [SkEtcR] [STDOUT] [SkEtcR] 패킷을 사용합니다
+[17:19:20] [Server thread/WARN]: Nag author(s): '[_____R]' of 'SkEtcR v3.3' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[17:19:20] [Server thread/INFO]: [SkEtcR] [STDOUT] [SkEtcR] 패킷을 사용합니다
+[17:19:20] [Server thread/ERROR]: Error occurred while enabling SkEtcR v3.3 (Is it up to date?)
+java.lang.NoClassDefFoundError: io/lumine/xikage/mythicmobs/mobs/ActiveMob
+	at kor.riga.sketcr.type.ActiveMobInfo.register(ActiveMobInfo.java:23) ~[SkEtcR_v3.3.jar:?]
+	at kor.riga.sketcr.API.MythicMobs.MythicMobs.register(MythicMobs.java:35) ~[SkEtcR_v3.3.jar:?]
+	at kor.riga.sketcr.API.API.registerAPIs(API.java:13) ~[SkEtcR_v3.3.jar:?]
+	at kor.riga.sketcr.Main.register(Main.java:342) ~[SkEtcR_v3.3.jar:?]
+	at kor.riga.sketcr.Main.onEnable(Main.java:167) ~[SkEtcR_v3.3.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: io.lumine.xikage.mythicmobs.mobs.ActiveMob
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:183) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 17 more
+[17:19:20] [Server thread/INFO]: [SkEtcR] Disabling SkEtcR v3.3
+[17:19:20] [Server thread/INFO]: [skript-citizens] Enabling skript-citizens v1.0.0
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.CHUNK_LOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.COMMAND'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.CREATE'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.PLUGIN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.RESPAWN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.TIMED_RESPAWN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.CHUNK_LOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.COMMAND'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.CREATE'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.PLUGIN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.RESPAWN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'spawnreasons.TIMED_RESPAWN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.CHUNK_UNLOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.DEATH'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.PENDING_RESPAWN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.PLUGIN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.RELOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.REMOVAL'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.WORLD_UNLOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.CHUNK_UNLOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.DEATH'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.PENDING_RESPAWN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.PLUGIN'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.RELOAD'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.REMOVAL'
+[17:19:20] [Server thread/INFO]: [Skript]     Missing lang enum constant for 'despawnreasons.WORLD_UNLOAD'
+[17:19:20] [Server thread/INFO]: [skript-citizens] Skript-Citizens has been enabled.
+[17:19:20] [Server thread/INFO]: [HeadDB] Enabling HeadDB v5.0.0-rc.8
+[17:19:20] [Server thread/INFO]: [HeadDB] Loading HeadDB - 5.0.0-rc.8
+[17:19:20] [Server thread/INFO]: [HeadDB] Loaded 1 languages!
+[17:19:20] [Server thread/INFO]: [HeadDB] Done!
+[17:19:20] [Server thread/INFO]: [skript-itemsadder] Enabling skript-itemsadder v1.5
+[17:19:20] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[17:19:20] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[17:19:20] [Server thread/INFO]: [skRayFall] Enabling skRayFall v1.9.28
+[17:19:20] [Server thread/INFO]: [skRayFall] Yay! You are running skRayFall 1.9.28!
+[17:19:20] [Server thread/INFO]: [skRayFall] Nathan and Lewis <3 you.
+[17:19:20] [Server thread/INFO]: [skRayFall] Cooking Bacon...
+[17:19:20] [Server thread/INFO]: [skRayFall] Getting more bacon for the army of citizens...
+[17:19:20] [Server thread/INFO]: [skRayFall] Got bacon for the EffectLib particle ninjas!
+[17:19:20] [Server thread/INFO]: [skRayFall] No Votifier Found! *Checks oven for finished bacon*
+[17:19:20] [Server thread/INFO]: [skRayFall] Bacon holograms found
+[17:19:20] [Server thread/INFO]: [skRayFall] Client Side bacon holograms enabled
+[17:19:20] [Server thread/INFO]: [skRayFall] Enabling general 1.8+ bacon!
+[17:19:20] [Server thread/INFO]: [skRayFall] Getting the general 1.9+ bacon!
+[17:19:20] [Server thread/INFO]: [skRayFall] Getting the extra special 1.17+ bacon!
+[17:19:20] [Server thread/INFO]: [skRayFall] Bacon is ready!
+[17:19:20] [Server thread/INFO]: [CustomCrops] Enabling CustomCrops v3.6.10
+[17:19:21] [Server thread/INFO]: [CustomCrops] ItemsAdder hooked!
+[17:19:21] [Server thread/INFO]: [CustomCrops] ItemsAdder hooked!
+[17:19:21] [Server thread/INFO]: [CustomCrops] MythicMobs hooked!
+[17:19:21] [Server thread/INFO]: [CustomCrops] Vault hooked!
+[17:19:21] [Server thread/INFO]: [CustomCrops] PlaceholderAPI hooked!
+[17:19:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: customcrops [3.6]
+[17:19:21] [Server thread/WARN]: [CustomCrops] Error occurs during parsing configs
+java.lang.NullPointerException: Cannot invoke "String.toUpperCase(java.util.Locale)" because the return value of "net.momirealms.customcrops.libraries.boostedyaml.block.implementation.Section.getString(String)" is null
+	at net.momirealms.customcrops.bukkit.config.ConfigType.lambda$static$3(ConfigType.java:162) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.ConfigType.parse(ConfigType.java:335) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.BukkitConfigManager.loadConfigs(BukkitConfigManager.java:236) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.BukkitConfigManager.load(BukkitConfigManager.java:103) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.common.plugin.feature.Reloadable.reload(Reloadable.java:24) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitCustomCropsPluginImpl.reload(BukkitCustomCropsPluginImpl.java:221) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitCustomCropsPluginImpl.enable(BukkitCustomCropsPluginImpl.java:169) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitBootstrap.onEnable(BukkitBootstrap.java:35) ~[CustomCrops-3.6.10.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:19:21] [Server thread/WARN]: [CustomCrops] Error occurs during parsing configs
+java.lang.NullPointerException: Cannot invoke "String.toUpperCase(java.util.Locale)" because the return value of "net.momirealms.customcrops.libraries.boostedyaml.block.implementation.Section.getString(String)" is null
+	at net.momirealms.customcrops.bukkit.config.ConfigType.lambda$static$3(ConfigType.java:162) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.ConfigType.parse(ConfigType.java:335) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.BukkitConfigManager.loadConfigs(BukkitConfigManager.java:236) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.BukkitConfigManager.load(BukkitConfigManager.java:103) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.common.plugin.feature.Reloadable.reload(Reloadable.java:24) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitCustomCropsPluginImpl.reload(BukkitCustomCropsPluginImpl.java:221) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitCustomCropsPluginImpl.enable(BukkitCustomCropsPluginImpl.java:169) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitBootstrap.onEnable(BukkitBootstrap.java:35) ~[CustomCrops-3.6.10.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:19:21] [Server thread/WARN]: [CustomCrops] Error occurs during parsing configs
+java.lang.NullPointerException: Cannot invoke "String.toUpperCase(java.util.Locale)" because the return value of "net.momirealms.customcrops.libraries.boostedyaml.block.implementation.Section.getString(String)" is null
+	at net.momirealms.customcrops.bukkit.config.ConfigType.lambda$static$3(ConfigType.java:162) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.ConfigType.parse(ConfigType.java:335) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.BukkitConfigManager.loadConfigs(BukkitConfigManager.java:236) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.config.BukkitConfigManager.load(BukkitConfigManager.java:103) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.common.plugin.feature.Reloadable.reload(Reloadable.java:24) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitCustomCropsPluginImpl.reload(BukkitCustomCropsPluginImpl.java:221) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitCustomCropsPluginImpl.enable(BukkitCustomCropsPluginImpl.java:169) ~[CustomCrops-3.6.10.jar:?]
+	at net.momirealms.customcrops.bukkit.BukkitBootstrap.onEnable(BukkitBootstrap.java:35) ~[CustomCrops-3.6.10.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:19:21] [Server thread/INFO]: [SkQuery] Enabling SkQuery v4.1.10
+[17:19:21] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[17:19:21] [Server thread/INFO]: [skQuery] Beginning to process a total of 117 from SkQuery
+[17:19:21] [Server thread/INFO]: [skQuery] Out of 117 classes, 117 classes were loaded from SkQuery
+[17:19:21] [Server thread/INFO]: [MCPets] Enabling MCPets v4.1.2
+[17:19:21] [Server thread/INFO]: [MCPets] : Language file reloaded.
+[17:19:21] [Server thread/INFO]: [MCPets] : Blacklist file reloaded.
+[17:19:21] [Server thread/INFO]: Loading pets... 
+[17:19:21] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:19:21] [Server thread/INFO]:   - Nocsy_Death_Spirit loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Cat-Halloween loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Drakonin-Fairy_Baby loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Drakonin-Fall_Baby loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - TofNocsy_Capybara loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Chibi_Tree_Golem loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Patreon-Chibi-Witch loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Chibi_Fox loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Chibi_Djinn_Dragon loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Patreon-Baby-Phoenix loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Otter loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Corgi loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Chibi_Salamander loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Nocsy_Chibi_Fluffy_Ram loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - fairy_seed loaded succesfully.
+[17:19:21] [Server thread/INFO]:   - Utahraptor loaded succesfully.
+[17:19:21] [Server thread/INFO]: [MCPets] : 16 pets registered successfully !
+[17:19:21] [Server thread/INFO]: [MCPets] : 0 categories registered successfully !
+[17:19:21] [customcrops-worker-3/WARN]: [CustomCrops] Update is available: https://polymart.org/resource/2625/
+[17:19:22] [Server thread/ERROR]: [MCPets] Could not reach SQL database. Please configure your database parameters.
+[17:19:22] [Server thread/INFO]: [MCPets] [Database] Can't initialize MySQL.
+[17:19:22] [Server thread/INFO]: [MCPets] [Database] Will be using YAML support instead (no worry it's not a bug).
+[17:19:22] [Server thread/INFO]: -=-=-=-= MCPets loaded =-=-=-=-
+[17:19:22] [Server thread/INFO]:       Plugin made by Nocsy
+[17:19:22] [Server thread/INFO]: -=-=-=-= -=-=-=-=-=-=- =-=-=-=-
+[17:19:22] [Server thread/INFO]: -=- Launching Flags -=-
+[17:19:22] [Server thread/INFO]: [MCPets] : Starting flag mcpets-dismount.
+[17:19:22] [Server thread/INFO]: [MCPets] : Starting flag mcpets-despawn.
+[17:19:22] [Server thread/INFO]: [MCPets] : Starting flag mcpets-dismount-flying.
+[17:19:22] [Server thread/INFO]: 3 flags launched.
+[17:19:22] [Server thread/INFO]: [PermSk] Enabling PermSk v1.1.1-LEGACY-1.16
+[17:19:22] [Server thread/INFO]: [PermSk] Checking for update...
+[17:19:22] [Server thread/INFO]: [PermSk] You are using an legacy Version of PermSk!
+[17:19:22] [Server thread/INFO]: [PermSk] [Skript] Dependency found, loading Skript syntaxes
+[17:19:22] [Server thread/INFO]: [PermSk] [Vault] Dependency found, Vault syntaxes loaded
+[17:19:22] [Server thread/INFO]: [PermSk] [LuckPerms] Dependency found, permission plugin syntaxes loaded
+[17:19:22] [Server thread/INFO]: [PermSk] Add-on loaded successfully
+[17:19:22] [Server thread/INFO]: [PermSk] [bStats] Sucessfully loaded
+[17:19:22] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.13
+[17:19:22] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[17:19:22] [Server thread/INFO]: [voicechat] Compatibility version 18
+[17:19:22] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[17:19:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.13]
+[17:19:22] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
+[17:19:22] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:19:22] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[17:19:22] [Server thread/INFO]: Running delayed init tasks
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[17:19:22] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:19:22] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: [ItemsAdder] [License] Store product licensed to: netjjang2 (553019)
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 7 - CosmeticsCore/INFO]: [CosmeticsCore] [License] Store product licensed to: netjjang2 (553019)
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing amogus.bbmodel.
+[17:19:22] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[17:19:22] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[17:19:22] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[17:19:22] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[17:19:22] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing ballon_cluster.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing fairy_seed.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing locomotive.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_chibi_djinn_dragon.bbmodel.
+[17:19:22] [Server thread/INFO]: [Skript] Loading variables...
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_chibi_fox.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_chibi_salamender.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:22] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] UPDATE available: https://www.spigotmc.org/resources/73355/
+[17:19:22] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Current version: 3.6.3-beta-14 | Online version: 4.0.6
+[17:19:22] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_chibi_tree_golem.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_corgi.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_death_spirit_ball.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_fluffy_ram.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_magic_cat.bbmodel.
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:22] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_otter_v2.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_spooky_chibi_witch.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing star_kite.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing toffy_capybara.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing toffy_death_spirit.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing toffy_toy_bone.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing toffy_yarn.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing tofnocsy_phoenix_baby.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing utahraptor.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_fairy_drakonin_baby.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_fall_drakonin_baby.bbmodel.
+[17:19:23] [Server thread/INFO]: [Skript] Loaded 3119 variables in 0.2 seconds
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_fairy_drakonin_egg.bbmodel.
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing nocsy_fall_drakonin_egg.bbmodel.
+[17:19:23] [Server thread/INFO]: [Skript] Line 199: (create.sk)
+[17:19:23] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[17:19:23] [Server thread/INFO]:     Line: if {_save.%{_n}%::%loop-num%} is not air:
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Server thread/INFO]: [Skript] Line 59: (RPG_cooldown.sk)
+[17:19:23] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_s}%.%{_t}%::%{_pl}%}). You could prefix it with the script's name: {RPG_cooldown::%{_s}%.%{_t}%::%{_pl}%}
+[17:19:23] [Server thread/INFO]:     Line: if {%{_s}%.%{_t}%::%{_pl}%} is set:
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Server thread/INFO]: [Skript] Line 60: (RPG_cooldown.sk)
+[17:19:23] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_s}%.%{_t}%::%{_pl}%}). You could prefix it with the script's name: {RPG_cooldown::%{_s}%.%{_t}%::%{_pl}%}
+[17:19:23] [Server thread/INFO]:     Line: set {_d} to difference between {%{_s}%.%{_t}%::%{_pl}%} and now
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Server thread/INFO]: [Skript] Line 63: (RPG_cooldown.sk)
+[17:19:23] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_s}%.%{_t}%::%{_pl}%}). You could prefix it with the script's name: {RPG_cooldown::%{_s}%.%{_t}%::%{_pl}%}
+[17:19:23] [Server thread/INFO]:     Line: set {%{_s}%.%{_t}%::%{_pl}%} to now
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[17:19:23] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[17:19:23] [Server thread/INFO]: [Skript] Line 41: (RPG_skillbook.sk)
+[17:19:23] [Server thread/INFO]:     loop-index is already a text, so you should not put it in one (e.g. loop-index instead of "%loop-index%")
+[17:19:23] [Server thread/INFO]:     Line: if "%loop-index%" is "1":
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Server thread/INFO]: [Skript] Line 50: (RPG_skillbook.sk)
+[17:19:23] [Server thread/INFO]:     loop-index is already a text, so you should not put it in one (e.g. loop-index instead of "%loop-index%")
+[17:19:23] [Server thread/INFO]:     Line: if "%loop-index%" is "1":
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Server thread/INFO]: [Skript] Line 60: (RPG_skillbook.sk)
+[17:19:23] [Server thread/INFO]:     loop-index is already a text, so you should not put it in one (e.g. loop-index instead of "%loop-index%")
+[17:19:23] [Server thread/INFO]:     Line: if "%loop-index%" is "1":
+[17:19:23] [Server thread/INFO]:  
+[17:19:23] [Server thread/INFO]: [Skript] Line 70: (RPG_skillbook.sk)
+[17:19:23] [Server thread/INFO]:     loop-index is already a text, so you should not put it in one (e.g. loop-index instead of "%loop-index%")
+[17:19:23] [Server thread/INFO]:     Line: if "%loop-index%" is "1":
+[17:19:23] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 147: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this condition: '{도감관리::%loop-num-1%::%loop-num-2%::%loop-num-3%} is set && {도감관리::%loop-num-1%::%loop-num-2%::%loop-num-3%} is not air'
+[17:19:24] [Server thread/INFO]:     Line: if {도감관리::%loop-num-1%::%loop-num-2%::%loop-num-3%} is set && {도감관리::%loop-num-1%::%loop-num-2%::%loop-num-3%} is not air:
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 214: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this condition: '{도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is set && {도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is not air'
+[17:19:24] [Server thread/INFO]:     Line: if {도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is set && {도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is not air:
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 217: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::완료보상금::%{_categori}%}
+[17:19:24] [Server thread/INFO]:     Line: add "&7▶ 보상금 : %formatted number {도감관리::완료보상금::%{_categori}%}%원" to lore of slot 47 of {_inv}
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 218: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::완료보상금::%{_categori}%}
+[17:19:24] [Server thread/INFO]:     Line: add "&7▶ 보상금 : %formatted number {도감관리::완료보상금::%{_categori}%}%원" to lore of slot 48 of {_inv}
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 222: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this condition: '{도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is set && {도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is not air'
+[17:19:24] [Server thread/INFO]:     Line: if {도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is set && {도감관리::카테고리완료보상::%{_categori}%::%loop-num%} is not air:
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 225: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::완료보상금::%{_categori}%}
+[17:19:24] [Server thread/INFO]:     Line: add "&7▶ %formatted number {도감관리::완료보상금::%{_categori}%}%원" to lore of slot 47 of {_inv}
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 226: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::완료보상금::%{_categori}%}
+[17:19:24] [Server thread/INFO]:     Line: add "&7▶ %formatted number {도감관리::완료보상금::%{_categori}%}%원" to lore of slot 48 of {_inv}
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 351: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::등록보상금::%{_n}%}
+[17:19:24] [Server thread/INFO]:     Line: set slot 14 of {_inv} to ItemsAdder.getCustomItem("encbook:blank") named "&6등록 보상금 설정하기" with lore "&7아이템을 등록했을 때 돈을 받도록 설정할 수 있습니다" and "&7현재 설정된 값 : %formatted number {도감관리::등록보상금::%{_n}%}%원"
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 352: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::완료보상금::%{_n}%}
+[17:19:24] [Server thread/INFO]:     Line: set slot 32 of {_inv} to ItemsAdder.getCustomItem("encbook:blank") named "&d카테고리 완료 보상금 설정하기" with lore "&7카테고리의 모든 아이템을 등록했을 때 돈을 받도록 설정할 수 있습니다" and "&7현재 설정된 값 : %formatted number {도감관리::완료보상금::%{_n}%}%원"
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 362: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this expression: formatted number {도감관리::진척도보상금::%loop-num%}
+[17:19:24] [Server thread/INFO]:     Line: set slot loop-num +26 of {_inv} to ItemsAdder.getCustomItem("encbook:blank") named "&6%loop-num%단계&f 보상금 설정" with lore "&7현재 설정된 보상금 : %formatted number {도감관리::진척도보상금::%loop-num%}%원"
+[17:19:24] [Server thread/INFO]:  
+[17:19:24] [Server thread/INFO]: [Skript] Line 426: (encbook2.sk)
+[17:19:24] [Server thread/INFO]:     Can't understand this condition: '{도감관리::진척도보상::%{_n}%::%loop-num%} is set && {도감관리::진척도보상::%{_n}%::%loop-num%} is not air'
+[17:19:24] [Server thread/INFO]:     Line: if {도감관리::진척도보상::%{_n}%::%loop-num%} is set && {도감관리::진척도보상::%{_n}%::%loop-num%} is not air:
+[17:19:24] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 82: (gacha.sk)
+[17:19:25] [Server thread/INFO]:     the name of {_item} is already a text, so you should not put it in one (e.g. the name of {_item} instead of "%the name of {_item}%")
+[17:19:25] [Server thread/INFO]:     Line: send title "%name of {_item}%" with subtitle "&f당신이 얻을 아이템은!&f" to {_pl} for 1 seconds
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 95: (gacha.sk)
+[17:19:25] [Server thread/INFO]:     the name of {_item} is already a text, so you should not put it in one (e.g. the name of {_item} instead of "%the name of {_item}%")
+[17:19:25] [Server thread/INFO]:     Line: send title "%name of {_item}%" with subtitle "&f당신이 얻을 아이템은!&f" to {_pl} for 1 seconds
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 108: (gacha.sk)
+[17:19:25] [Server thread/INFO]:     the name of {_item} is already a text, so you should not put it in one (e.g. the name of {_item} instead of "%the name of {_item}%")
+[17:19:25] [Server thread/INFO]:     Line: send title "%name of {_item}%" with subtitle "&f당신이 얻을 아이템은!&f" to {_pl} for 1 seconds
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 115: (gacha.sk)
+[17:19:25] [Server thread/INFO]:     the name of {_r.list::%{_i}%} is already a text, so you should not put it in one (e.g. the name of {_r.list::%{_i}%} instead of "%the name of {_r.list::%{_i}%}%")
+[17:19:25] [Server thread/INFO]:     Line: send title "%name of {_r.list::%{_i}%}%" with subtitle "&f당신이 얻을 아이템은!&f" to {_pl} for 1 seconds
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 126: (gacha.sk)
+[17:19:25] [Server thread/INFO]:     the name of {trash::%{_i}%} is already a text, so you should not put it in one (e.g. the name of {trash::%{_i}%} instead of "%the name of {trash::%{_i}%}%")
+[17:19:25] [Server thread/INFO]:     Line: send title "%name of {trash::%{_i}%}%" with subtitle "&f당신이 얻을 아이템은!&f" to {_pl} for 1 seconds
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 9: (prefix.sk)
+[17:19:25] [Server thread/INFO]:     colored loop-value is already a text, so you should not put it in one (e.g. colored loop-value instead of "%colored loop-value%")
+[17:19:25] [Server thread/INFO]:     Line: set slot {_c}-1 of {_inv} to glowing ItemsAdder.getCustomItem("zzunwoo:prefix") named "%colored loop-value%" with lore "" and "&c장착중"
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 11: (prefix.sk)
+[17:19:25] [Server thread/INFO]:     colored loop-value is already a text, so you should not put it in one (e.g. colored loop-value instead of "%colored loop-value%")
+[17:19:25] [Server thread/INFO]:     Line: set slot {_c}-1 of {_inv} to ItemsAdder.getCustomItem("zzunwoo:prefix") named "%colored loop-value%" with lore "" and "&f클릭&7하여 장착"
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 51: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{shop.list::%{_n}%}%.shop.list::*}). You could prefix it with the script's name: {shop::%{shop.list::%{_n}%}%.shop.list::*}
+[17:19:25] [Server thread/INFO]:     Line: loop {%{shop.list::%{_n}%}%.shop.list::*}:
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 53: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{shop.list::%{_n}%}%.shop.itemprice.buy::%{_c}%}). You could prefix it with the script's name: {shop::%{shop.list::%{_n}%}%.shop.itemprice.buy::%{_c}%}
+[17:19:25] [Server thread/INFO]:     Line: if {%{shop.list::%{_n}%}%.shop.itemprice.buy::%{_c}%} is "0":
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 56: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{shop.list::%{_n}%}%.shop.itemprice.buy::%{_c}%}). You could prefix it with the script's name: {shop::%{shop.list::%{_n}%}%.shop.itemprice.buy::%{_c}%}
+[17:19:25] [Server thread/INFO]:     Line: set slot {_c}+17 of {_inv} to loop-value with lore "" and "&f구매 : &b%{%{shop.list::%{_n}%}%.shop.itemprice.buy::%{_c}%}%&f૱"
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 60: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{shop.list::%{_n}%}%.shop.list::*}). You could prefix it with the script's name: {shop::%{shop.list::%{_n}%}%.shop.list::*}
+[17:19:25] [Server thread/INFO]:     Line: loop {%{shop.list::%{_n}%}%.shop.list::*}:
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 62: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{shop.list::%{_n}%}%.shop.itemprice.sell::%{_c}%}). You could prefix it with the script's name: {shop::%{shop.list::%{_n}%}%.shop.itemprice.sell::%{_c}%}
+[17:19:25] [Server thread/INFO]:     Line: if {%{shop.list::%{_n}%}%.shop.itemprice.sell::%{_c}%} is "0":
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 65: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{shop.list::%{_n}%}%.shop.itemprice.sell::%{_c}%}). You could prefix it with the script's name: {shop::%{shop.list::%{_n}%}%.shop.itemprice.sell::%{_c}%}
+[17:19:25] [Server thread/INFO]:     Line: set slot {_c}+17 of {_inv} to loop-value with lore "" and "&f판매 : &c%{%{shop.list::%{_n}%}%.shop.itemprice.sell::%{_c}%}%&f૱"
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 69: (shop.sk)
+[17:19:25] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_n}%.shop.icon}). You could prefix it with the script's name: {shop::%{_n}%.shop.icon}
+[17:19:25] [Server thread/INFO]:     Line: set slot 16 of {_inv} to {%{_n}%.shop.icon}
+[17:19:25] [Server thread/INFO]:  
+[17:19:25] [Server thread/INFO]: [Skript] Line 161: (RPG_skillbook.sk)
+[17:19:25] [Server thread/INFO]:     the 3rd argument is already a text, so you should not put it in one (e.g. the 3rd argument instead of "%the 3rd argument%")
+[17:19:25] [Server thread/INFO]:     Line: if uncolored 2nd line of lore of player's tool contains "%arg 3%":
+[17:19:25] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 67: (nameSet.sk)
+[17:19:26] [Server thread/INFO]:     the 3rd argument is already a text, so you should not put it in one (e.g. the 3rd argument instead of "%the 3rd argument%")
+[17:19:26] [Server thread/INFO]:     Line: if "%arg 3%" is "%loop-value%":
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 77: (nameSet.sk)
+[17:19:26] [Server thread/INFO]:     the 3rd argument is already a text, so you should not put it in one (e.g. the 3rd argument instead of "%the 3rd argument%")
+[17:19:26] [Server thread/INFO]:     Line: set {name::%arg 2%} to "%arg 3%"
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 95: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.list::%loop-index%}). You could prefix it with the script's name: {shop::%arg 2%.shop.list::%loop-index%}
+[17:19:26] [Server thread/INFO]:     Line: delete {%arg 2%.shop.list::%loop-index%}
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 96: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.itemprice.sell::%loop-index%}). You could prefix it with the script's name: {shop::%arg 2%.shop.itemprice.sell::%loop-index%}
+[17:19:26] [Server thread/INFO]:     Line: delete {%arg 2%.shop.itemprice.sell::%loop-index%}
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 97: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.itemprice.buy::%loop-index%}). You could prefix it with the script's name: {shop::%arg 2%.shop.itemprice.buy::%loop-index%}
+[17:19:26] [Server thread/INFO]:     Line: delete {%arg 2%.shop.itemprice.buy::%loop-index%}
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 103: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.list::*}). You could prefix it with the script's name: {shop::%arg 2%.shop.list::*}
+[17:19:26] [Server thread/INFO]:     Line: loop {%arg 2%.shop.list::*}:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 104: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.list::%loop-index-2%}). You could prefix it with the script's name: {shop::%arg 2%.shop.list::%loop-index-2%}
+[17:19:26] [Server thread/INFO]:     Line: if {%arg 2%.shop.list::%loop-index-2%} is set:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 115: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.icon}). You could prefix it with the script's name: {shop::%arg 2%.shop.icon}
+[17:19:26] [Server thread/INFO]:     Line: set {%arg 2%.shop.icon} to player's tool
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 116: (shop.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%arg 2%.shop.icon}). You could prefix it with the script's name: {shop::%arg 2%.shop.icon}
+[17:19:26] [Server thread/INFO]:     Line: send "%{%arg 2%.shop.icon}%"
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 89: (RPG_cooldown.sk)
+[17:19:26] [Server thread/INFO]:     uncolored the line 2 of the lore of  tool of the player is already a text, so you should not put it in one (e.g. uncolored the line 2 of the lore of  tool of the player instead of "%uncolored the line 2 of the lore of  tool of the player%")
+[17:19:26] [Server thread/INFO]:     Line: set {_skill} to combatJobSet("%uncolored 2nd line of lore of player's tool%")
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 98: (RPG_cooldown.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_skill}%.lc::%player%}). You could prefix it with the script's name: {RPG_cooldown::%{_skill}%.lc::%player%}
+[17:19:26] [Server thread/INFO]:     Line: if {%{_skill}%.lc::%player%} is set:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 104: (RPG_cooldown.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_skill}%.slc::%player%}). You could prefix it with the script's name: {RPG_cooldown::%{_skill}%.slc::%player%}
+[17:19:26] [Server thread/INFO]:     Line: if {%{_skill}%.slc::%player%} is set:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 119: (RPG_cooldown.sk)
+[17:19:26] [Server thread/INFO]:     uncolored the line 2 of the lore of  tool of the player is already a text, so you should not put it in one (e.g. uncolored the line 2 of the lore of  tool of the player instead of "%uncolored the line 2 of the lore of  tool of the player%")
+[17:19:26] [Server thread/INFO]:     Line: set {_skill} to combatJobSet("%uncolored 2nd line of lore of player's tool%")
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 128: (RPG_cooldown.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_skill}%.rc::%player%}). You could prefix it with the script's name: {RPG_cooldown::%{_skill}%.rc::%player%}
+[17:19:26] [Server thread/INFO]:     Line: if {%{_skill}%.rc::%player%} is set:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 134: (RPG_cooldown.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_skill}%.src::%player%}). You could prefix it with the script's name: {RPG_cooldown::%{_skill}%.src::%player%}
+[17:19:26] [Server thread/INFO]:     Line: if {%{_skill}%.src::%player%} is set:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 528: (RPG_skillbook.sk)
+[17:19:26] [Server thread/INFO]:     uncolored the line 2 of the lore of  tool of the player is already a text, so you should not put it in one (e.g. uncolored the line 2 of the lore of  tool of the player instead of "%uncolored the line 2 of the lore of  tool of the player%")
+[17:19:26] [Server thread/INFO]:     Line: set {_job} to combatJobSet("%uncolored 2nd line of lore of player's tool%")
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 529: (RPG_skillbook.sk)
+[17:19:26] [Server thread/INFO]:     uncolored the name of  tool of the player is already a text, so you should not put it in one (e.g. uncolored the name of  tool of the player instead of "%uncolored the name of  tool of the player%")
+[17:19:26] [Server thread/INFO]:     Line: set {_cType} to clickTypeCheck("%uncolored name of player's tool%")
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 530: (RPG_skillbook.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_job}%.%{_cType}%::%player%}). You could prefix it with the script's name: {RPG_skillbook::%{_job}%.%{_cType}%::%player%}
+[17:19:26] [Server thread/INFO]:     Line: if {%{_job}%.%{_cType}%::%player%} is set:
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 536: (RPG_skillbook.sk)
+[17:19:26] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_job}%.%{_cType}%::%player%}). You could prefix it with the script's name: {RPG_skillbook::%{_job}%.%{_cType}%::%player%}
+[17:19:26] [Server thread/INFO]:     Line: set {%{_job}%.%{_cType}%::%player%} to now
+[17:19:26] [Server thread/INFO]:  
+[17:19:26] [Server thread/INFO]: [Skript] Line 598: (RPG_skillbook.sk)
+[17:19:26] [Server thread/INFO]:     uncolored the line 2 of the lore of  tool of the attacked entity is already a text, so you should not put it in one (e.g. uncolored the line 2 of the lore of  tool of the attacked entity instead of "%uncolored the line 2 of the lore of  tool of the attacked entity%")
+[17:19:26] [Server thread/INFO]:     Line: if combatJobSet("%uncolored 2nd line of lore of victim's tool%") is combatJobSet("%{cjob::%victim%}%"):
+[17:19:26] [Server thread/INFO]:  
+[17:19:28] [Server thread/INFO]: [Skript] Line 483: (encbook2.sk)
+[17:19:28] [Server thread/INFO]:     Can't understand this condition: 'type of clicked inventory is chest inventory && clicked slot is not air'
+[17:19:28] [Server thread/INFO]:     Line: else if type of clicked inventory is chest inventory && clicked slot is not air:
+[17:19:28] [Server thread/INFO]:  
+[17:19:28] [Server thread/INFO]: [Skript] Line 625: (encbook2.sk)
+[17:19:28] [Server thread/INFO]:     Can't understand this condition: '{도감관리::카테고리완료보상::%{_page::1}%::%loop-num%} is set && {도감관리::카테고리완료보상::%{_page::1}%::%loop-num%} is not air'
+[17:19:28] [Server thread/INFO]:     Line: if {도감관리::카테고리완료보상::%{_page::1}%::%loop-num%} is set && {도감관리::카테고리완료보상::%{_page::1}%::%loop-num%} is not air:
+[17:19:28] [Server thread/INFO]:  
+[17:19:28] [Server thread/INFO]: [Skript] Line 652: (encbook2.sk)
+[17:19:28] [Server thread/INFO]:     Can't understand this condition: '{도감관리::카테고리등록보상::%{_page::1}%::%loop-num%} is set && {도감관리::카테고리등록보상::%{_page::1}%::%loop-num%} is not air'
+[17:19:28] [Server thread/INFO]:     Line: if {도감관리::카테고리등록보상::%{_page::1}%::%loop-num%} is set && {도감관리::카테고리등록보상::%{_page::1}%::%loop-num%} is not air:
+[17:19:28] [Server thread/INFO]:  
+[17:19:28] [Server thread/INFO]: [Skript] Line 697: (encbook2.sk)
+[17:19:28] [Server thread/INFO]:     Can't understand this condition: '{도감관리::진척도보상::%{_num}%::%loop-num%} is set && {도감관리::진척도보상::%{_num}%::%loop-num%} is not air'
+[17:19:28] [Server thread/INFO]:     Line: if {도감관리::진척도보상::%{_num}%::%loop-num%} is set && {도감관리::진척도보상::%{_num}%::%loop-num%} is not air:
+[17:19:28] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 26: (nameSet.sk)
+[17:19:29] [Server thread/INFO]:     the chat message is already a text, so you should not put it in one (e.g. the chat message instead of "%the chat message%")
+[17:19:29] [Server thread/INFO]:     Line: if "%chat message%" is "%loop-value%":
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 41: (nameSet.sk)
+[17:19:29] [Server thread/INFO]:     the chat message is already a text, so you should not put it in one (e.g. the chat message instead of "%the chat message%")
+[17:19:29] [Server thread/INFO]:     Line: set {name::%player%} to "%chat message%"
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 180: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%uncolored name of slot 16 of current inventory of player%.shop.list::%index of clicked slot - 17%}). You could prefix it with the script's name: {shop::%uncolored name of slot 16 of current inventory of player%.shop.list::%index of clicked slot - 17%}
+[17:19:29] [Server thread/INFO]:     Line: set {_i} to {%uncolored name of slot 16 of current inventory of player%.shop.list::%index of clicked slot - 17%}#아이템
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 239: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_invname}%.shop.itemprice.buy::%{_text}%}). You could prefix it with the script's name: {shop::%{_invname}%.shop.itemprice.buy::%{_text}%}
+[17:19:29] [Server thread/INFO]:     Line: send "&f구매 &b%{%{_invname}%.shop.itemprice.buy::%{_text}%}% &f/ 판매 &c%{%{_invname}%.shop.itemprice.sell::%{_text}%}%"
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 239: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_invname}%.shop.itemprice.sell::%{_text}%}). You could prefix it with the script's name: {shop::%{_invname}%.shop.itemprice.sell::%{_text}%}
+[17:19:29] [Server thread/INFO]:     Line: send "&f구매 &b%{%{_invname}%.shop.itemprice.buy::%{_text}%}% &f/ 판매 &c%{%{_invname}%.shop.itemprice.sell::%{_text}%}%"
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 246: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{invname}%.shop.itemprice.sell::%{text}%}). You could prefix it with the script's name: {shop::%{invname}%.shop.itemprice.sell::%{text}%}
+[17:19:29] [Server thread/INFO]:     Line: set {%{invname}%.shop.itemprice.sell::%{text}%} to uncolored message
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 252: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{invname2}%.shop.itemprice.buy::%{text2}%}). You could prefix it with the script's name: {shop::%{invname2}%.shop.itemprice.buy::%{text2}%}
+[17:19:29] [Server thread/INFO]:     Line: set {%{invname2}%.shop.itemprice.buy::%{text2}%} to uncolored message
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 263: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_invname}%.shop.list::*}). You could prefix it with the script's name: {shop::%{_invname}%.shop.list::*}
+[17:19:29] [Server thread/INFO]:     Line: delete {%{_invname}%.shop.list::*}
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Line 267: (shop.sk)
+[17:19:29] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_invname}%.shop.list::%{_c}%}). You could prefix it with the script's name: {shop::%{_invname}%.shop.list::%{_c}%}
+[17:19:29] [Server thread/INFO]:     Line: set {%{_invname}%.shop.list::%{_c}%} to slot {_c}-1 of current inventory of player
+[17:19:29] [Server thread/INFO]:  
+[17:19:29] [Server thread/INFO]: [Skript] Loaded 30 scripts with a total of 230 structures in 6.65 seconds
+[17:19:29] [Server thread/INFO]: [Skript] Finished loading.
+[17:19:29] [Server thread/INFO]: [ItemsAdder] [Pack] Extracting internal contents from .jar
+[17:19:29] [Server thread/INFO]: [ItemsAdder] [Pack] DONE extracting internal contents from .jar
+[17:19:30] [Server thread/INFO]: [CustomCrops] Registry access has been frozen
+[17:19:30] [Server thread/INFO]: [MagicSpells] Loading external data...
+[17:19:30] [Server thread/INFO]: [MagicSpells] Loading variables...
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...variable meta types loaded: 65
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...variable types loaded: 6
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...variables loaded: 0
+[17:19:30] [Server thread/INFO]: [MagicSpells] Loading spell effect types...
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...spell effect types loaded: 30
+[17:19:30] [Server thread/INFO]: [MagicSpells] Loading conditions...
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...conditions loaded: 122
+[17:19:30] [Server thread/INFO]: [MagicSpells] Loading passive listeners...
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...passive listeners loaded: 75
+[17:19:30] [Server thread/INFO]: [MagicSpells] ...done
+[17:19:30] [Server thread/INFO]: [MagicSpells] MagicSpells loading complete!
+[17:19:30] [Server thread/INFO]: [Citizens] Loaded 19 NPCs.
+[17:19:30] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.11.6) is available at:
+[17:19:30] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[17:19:30] [Server thread/INFO]: Done (36.540s)! For help, type "help"
+[17:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8196ms or 163 ticks behind
+[17:19:30] [Server thread/INFO]: Timings Reset
+[17:19:31] [Server thread/INFO]: [voicechat] Loading plugins
+[17:19:31] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[17:19:31] [Server thread/INFO]: [voicechat] Initializing plugins
+[17:19:31] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[17:19:31] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '192.168.219.100', binding to wildcard IP instead
+[17:19:31] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 192.168.219.100:24454
+[17:19:31] [Thread-38/INFO]: [!] Unable to load this image: zzunwoo_text in text_ui.yml
+[17:19:31] [Thread-38/INFO]: [!] Reason: Can't read input file!
+[17:19:31] [Thread-38/WARN]: javax.imageio.IIOException: Can't read input file!
+[17:19:31] [Thread-38/WARN]: 	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1310)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ImagesKt.toImage(Images.kt:43)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2$1.invoke(ImageManager.kt:61)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2$1.invoke(ImageManager.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.runWithExceptionHandling(Functions.kt:50)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2.invoke(ImageManager.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2.invoke(ImageManager.kt:45)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:83)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:81)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:87)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:86)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:45)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$1.run$lambda$4$lambda$3(Lists.kt:71)
+[17:19:31] [Thread-38/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Thread-38/INFO]: [!] Unable to load this image: zzunwoo_text_2 in text_ui.yml
+[17:19:31] [Thread-38/INFO]: [!] Reason: Can't read input file!
+[17:19:31] [Thread-38/WARN]: javax.imageio.IIOException: Can't read input file!
+[17:19:31] [Thread-38/WARN]: 	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1310)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ImagesKt.toImage(Images.kt:43)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2$1.invoke(ImageManager.kt:61)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2$1.invoke(ImageManager.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.runWithExceptionHandling(Functions.kt:50)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2.invoke(ImageManager.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2.invoke(ImageManager.kt:45)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:83)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:81)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:87)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:86)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:45)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$1.run$lambda$4$lambda$3(Lists.kt:71)
+[17:19:31] [Thread-38/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Thread-38/INFO]: [!] Unable to load this image: fishing_gif in text_ui.yml
+[17:19:31] [Thread-38/INFO]: [!] Reason: Can't read input file!
+[17:19:31] [Thread-38/WARN]: javax.imageio.IIOException: Can't read input file!
+[17:19:31] [Thread-38/WARN]: 	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1310)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ImagesKt.toImage(Images.kt:43)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2$1.invoke(ImageManager.kt:116)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2$1.invoke(ImageManager.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.runWithExceptionHandling(Functions.kt:50)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2.invoke(ImageManager.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.ImageManager$reload$2.invoke(ImageManager.kt:45)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:83)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:81)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:87)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:86)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:46)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:45)
+[17:19:31] [Thread-38/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$1.run$lambda$4$lambda$3(Lists.kt:71)
+[17:19:31] [Thread-38/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Loaded 477 items
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Used 0/188 REAL block IDs
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Used 2/750 REAL_NOTE block IDs
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Used 4/63 REAL_TRANSPARENT block IDs
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Used 63/127 REAL_WIRE block IDs
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Used 0/14 FIRE block IDs
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] Used 98/6608 font_images
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] [Init] Loaded 26 categories
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] [Init] Loaded successfully.
+[17:19:31] [Craft Scheduler Thread - 3 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Resourcepack URL (self-host): http://34.22.67.189:8163/generated.zip
+[17:19:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: img [1.0.1]
+[17:19:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: iaplayerstat [1.0.1]
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_amogus_balloon. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:31] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:31] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:31] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_star_kite. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:31] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:31] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:31] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_ballon_cluster. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:31] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:31] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:31] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_locomotive. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:31] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:31] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:31] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:31] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:31] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:31] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:31] [Server thread/INFO]: [ItemsAdder] Reloading ItemsAdder Custom Entities Citizens NPCs...
+[17:19:31] [Server thread/INFO]: [ItemsAdder] Reloaded 0 ItemsAdder Custom Entities Citizens NPCs.
+[17:19:31] [Server thread/INFO]: [Mythic] Reloading plugin...
+[17:19:31] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading Items...
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[17:19:32] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:32] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:32] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:32] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat ATTACK_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat ATTACK_SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat BONUS_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_RESILIENCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_REDUCTION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat DEFENSE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat DODGE_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat DODGE_NEGATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat HEALTH from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat HEALTH_REGENERATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat LIFESTEAL_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat LIFESTEAL_POWER from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat MOVEMENT_SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_NEGATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_POWER from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_COUNTERATTACK from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_GENERIC from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_BLUNT from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_SHARP from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_BLUNT from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_SHARP from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat FIRE_RESISTANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading stat SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[17:19:32] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[17:19:32] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[17:19:32] [Server thread/WARN]: [MythicMobs] --| Mob: Nocsy_Chibi_Tree_Golem | File: /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/Packs/Nocsy/Mobs/nocsy_chibi_tree_golem.yml
+[17:19:32] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill Nocsy_Chibi_Tree_Golem-Effect
+[17:19:32] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=Nocsy_Chibi_Tree_Golem<&da>Effect}
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 80 mobs.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 279 skills.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 112 mythic items.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[17:19:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 7 mob spawners.
+[17:19:33] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[17:19:33] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[17:19:35] [Thread-76/INFO]: [!] Unable to load this layout: fishing in fishing.yml
+[17:19:35] [Thread-76/INFO]: [!] Reason: this image doesn't exist: fishing_gif
+[17:19:35] [Thread-76/WARN]: java.lang.RuntimeException: this image doesn't exist: fishing_gif
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.ifNull(Functions.kt:16)
+[17:19:35] [Thread-77/INFO]: [!] Unable to load this layout: zzunwoo_text in Text_UI.yml
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.layout.LayoutGroup$image$1$1.invoke(LayoutGroup.kt:38)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.layout.LayoutGroup$image$1$1.invoke(LayoutGroup.kt:34)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.YamlsKt.forEachSubConfiguration(Yamls.kt:19)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.layout.LayoutGroup.<init>(LayoutGroup.kt:34)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1$1.invoke(LayoutManager.kt:27)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1$1.invoke(LayoutManager.kt:26)
+[17:19:35] [Thread-77/INFO]: [!] Reason: this image doesn't exist: zzunwoo_text
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.MapsKt.putSync(Maps.kt:32)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1.invoke(LayoutManager.kt:26)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1.invoke(LayoutManager.kt:25)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.runWithExceptionHandling(Functions.kt:50)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2.invoke(LayoutManager.kt:25)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2.invoke(LayoutManager.kt:24)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:83)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:81)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:87)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:86)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:46)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:45)
+[17:19:35] [Thread-76/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$1.run$lambda$4$lambda$3(Lists.kt:71)
+[17:19:35] [Thread-76/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:35] [Thread-77/WARN]: java.lang.RuntimeException: this image doesn't exist: zzunwoo_text
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.ifNull(Functions.kt:16)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.layout.LayoutGroup$image$1$1.invoke(LayoutGroup.kt:38)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.layout.LayoutGroup$image$1$1.invoke(LayoutGroup.kt:34)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.YamlsKt.forEachSubConfiguration(Yamls.kt:19)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.layout.LayoutGroup.<init>(LayoutGroup.kt:34)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1$1.invoke(LayoutManager.kt:27)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1$1.invoke(LayoutManager.kt:26)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.MapsKt.putSync(Maps.kt:32)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1.invoke(LayoutManager.kt:26)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2$1.invoke(LayoutManager.kt:25)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FunctionsKt.runWithExceptionHandling(Functions.kt:50)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2.invoke(LayoutManager.kt:25)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.manager.LayoutManager$reload$2.invoke(LayoutManager.kt:24)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:83)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$1$1.invoke(Files.kt:81)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:87)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.FilesKt$forEachAllYamlAsync$2.invoke(Files.kt:86)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:46)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$queue$1$1.invoke(Lists.kt:45)
+[17:19:35] [Thread-77/WARN]: 	at HUD 플러그인.jar//kr.toxicity.hud.util.ListsKt$forEachAsync$1.run$lambda$4$lambda$3(Lists.kt:71)
+[17:19:35] [Thread-77/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:35] [Thread-83/WARN]: [BetterHud] Unable to load this popup: test in test.yml
+[17:19:35] [Thread-83/WARN]: [BetterHud] Reason: this layout doesn't exist: zzunwoo_text
+[17:19:35] [Thread-84/WARN]: [BetterHud] Unable to load this popup: fishing in fishing.yml
+[17:19:35] [Thread-84/WARN]: [BetterHud] Reason: this layout doesn't exist: fishing
+[17:19:37] [ForkJoinPool.commonPool-worker-1/INFO]: [BetterHud] File packed: 7.459MB
+[17:19:37] [ForkJoinPool.commonPool-worker-1/INFO]: [BetterHud] Minecraft version: 1.20.1, NMS version: V1_20_R1
+[17:19:37] [ForkJoinPool.commonPool-worker-1/INFO]: [BetterHud] Plugin enabled.
+[17:19:40] [User Authenticator #0/INFO]: UUID of player seoCheongya is dab2b2c0-4ecb-4ceb-9c5b-88440559504c
+[17:19:40] [Server thread/INFO]: - seoCheongya online
+[17:19:40] [Server thread/INFO]: seoCheongya[/121.127.88.122:52127] logged in with entity id 390 at ([world]-21.16765236356612, -41.0, 117.04739373700338)
+[17:19:50] [Server thread/INFO]: seoCheongya issued server command: /iaz
+[17:19:50] [pool-64-thread-1/INFO]: [ItemsAdder] [Host] Stopped self-host webserver on port: 8163
+[17:19:50] [Server thread/INFO]: [ItemsAdder] [Host] Starting self-host webserver on port: 8163
+[17:19:50] [Server thread/WARN]: [ItemsAdder] Warning: forcefully setting player resourcepack status to installed because the plugin was reloaded.
+[17:19:50] [Server thread/INFO]: [ItemsAdder] [Pack] Extracting internal contents from .jar
+[17:19:50] [Server thread/INFO]: [ItemsAdder] [Pack] DONE extracting internal contents from .jar
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Loaded 477 items
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Used 0/188 REAL block IDs
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Used 2/750 REAL_NOTE block IDs
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Used 4/63 REAL_TRANSPARENT block IDs
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Used 63/127 REAL_WIRE block IDs
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Used 0/14 FIRE block IDs
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] Used 98/6608 font_images
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Init] Loaded 26 categories
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Init] Loaded successfully in 253ms
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Started generation
+[17:19:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: img [1.0.1]
+[17:19:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: iaplayerstat [1.0.1]
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_amogus_balloon. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:51] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:51] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:51] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_star_kite. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:51] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:51] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:51] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_ballon_cluster. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:51] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:51] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:51] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] Failed to load cosmetic meg_locomotive. File: /cosmetics/default_pack/modelengine_balloons.yml
+[17:19:51] [Server thread/WARN]: java.lang.NoSuchMethodError: 'com.ticxo.modelengine.api.generator.model.ModelBlueprint com.ticxo.modelengine.api.ModelEngineAPI.getBlueprint(java.lang.String)'
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Y.<init>(SourceFile:29)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.V.<init>(SourceFile:21)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.Q.a(SourceFile:182)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.j.a(SourceFile:242)
+[17:19:51] [Server thread/WARN]: 	at CosmeticsCore_1.2.2f.jar//dev.lone.cosmeticscore.main.I.a(SourceFile:58)
+[17:19:51] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40)
+[17:19:51] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:19:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.sg.a(SourceFile:74)
+[17:19:51] [Server thread/WARN]: 	at ItemsAdder_3.6.3-beta-14.jar//ia.m.G.d(SourceFile:940)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[17:19:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[17:19:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[17:19:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17:19:51] [Server thread/ERROR]: [CosmeticsCore] 
+[17:19:51] [Server thread/INFO]: [ItemsAdder] Reloading ItemsAdder Custom Entities Citizens NPCs...
+[17:19:51] [Server thread/INFO]: [ItemsAdder] Saving Citizens NPCs
+[17:19:51] [Server thread/INFO]: [ItemsAdder] Reloaded 0 ItemsAdder Custom Entities Citizens NPCs.
+[17:19:51] [Server thread/INFO]: [Mythic] Reloading plugin...
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/ERROR]: [ItemsAdder] Texture 'zzunwoo:tpicon' not found for model. File: assets/zzunwoo/models/ia_auto_gen/tpicon.json
+[17:19:51] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 1 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 2 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 3 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 4 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 5 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 6 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 7 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 8 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 9 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 10 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 11 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 12 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 13 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 14 for item 'leather_horse_armor'. File: resource pack/assets/minecraft/models/item/leather_horse_armor.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 1 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 2 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 3 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 4 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 5 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 6 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 7 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] Duplicate CustomModelData 8 for item 'player_head'. File: resource pack/assets/minecraft/models/item/player_head.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/ERROR]: [ItemsAdder] Texture 'z_cosmetics:cosmetics_slot' not found for model. File: contents/cosmetics/resourcepack/assets/z_cosmetics/models/cosmetics_slot.json
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:51] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Generated resourcepack
+[17:19:51] [Server thread/INFO]: [MythicMobs] Loading Items...
+[17:19:51] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[17:19:51] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[17:19:51] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:52] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:52] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:52] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '<random.10>': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat ATTACK_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat ATTACK_SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat BONUS_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_DAMAGE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat CRITICAL_STRIKE_RESILIENCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_REDUCTION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat DEFENSE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat DODGE_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat DODGE_NEGATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat HEALTH from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat HEALTH_REGENERATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat LIFESTEAL_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat LIFESTEAL_POWER from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat MOVEMENT_SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_CHANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_NEGATION from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_POWER from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat PARRY_COUNTERATTACK from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_GENERIC from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_BLUNT from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat ARMOR_SHARP from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_BLUNT from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat DAMAGE_SHARP from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat FIRE_RESISTANCE from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading stat SPEED from /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/stats.yml
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[17:19:52] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[17:19:52] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[17:19:52] [Server thread/WARN]: [MythicMobs] --| Mob: Nocsy_Chibi_Tree_Golem | File: /home/netjjang4/minecraft/server/서버팩/plugins/MythicMobs/Packs/Nocsy/Mobs/nocsy_chibi_tree_golem.yml
+[17:19:52] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill Nocsy_Chibi_Tree_Golem-Effect
+[17:19:52] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=Nocsy_Chibi_Tree_Golem<&da>Effect}
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 80 mobs.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 279 skills.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 112 mythic items.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[17:19:52] [Server thread/INFO]: [MythicMobs] ✓ Loaded 7 mob spawners.
+[17:19:52] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[17:19:52] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [OK] Your zip file will be protected from unzip (as set in config.yml)
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Compressing resource_pack ... 
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.vsh
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/star_kite/kite.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_backfoot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_otter_v2.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.vsh
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_ear.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/left_backarm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_tibia.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/torso.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/fairy_seed_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/fox/nocsy_chibi_fox.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_spooky_witch_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/ballon_cluster/mob.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/ballon_cluster.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/neck.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/horn_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/left_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/dress_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/front_leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_eyebrow.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_chibi_tree_golem_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/magic_cat/toffy_yarn.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/right_frontfoot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/cosmetics/textures/entity/star_kite/star_kite.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/bone.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_wing_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/right_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_chibi_salamander_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/arm_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/tofnocsy_phoenix_baby.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/left_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/right_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/left_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/locomotive/bucket.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/toffy_yarn.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/magic_cat/nocsy_magic_cat_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/left_back_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/locomotive/mob.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/toffy_capybara_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_foot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.fsh
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_fall_drakonin_baby_adjusted.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_fluffy_ram_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/chest.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_yarn/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/tofnocsy_phoenix_baby_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/locomotive.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/capybara/toffy_capybara_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_egg/shell.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/back_leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/right_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_toy_bone/bone.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/front_foot_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/left_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/ears.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_frontleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/left_backleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/foot_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_fall_drakonin_baby_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/front_leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/back_leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/fairy_seed_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_magic_cat_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/back_foot_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/front_foot_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/locomotive/r.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/death_spirit_ball.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_backleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/cosmetics/textures/entity/star_kite/star_kite.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/right_toes.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/wing_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/right_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_otter_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_hand.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/back_foot_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/right_backleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/foot_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.fsh
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/tail_mid.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/front_foot_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_fairy_drakonin_baby.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/mouth.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/right_hair.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_chibi_djinn_dragon_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/right_back_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_chibi_djinn_dragon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/left_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/dress_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/tail_tip.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.fsh
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_death_spirit_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/horn_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/tail_half.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/right_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/left_hair.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_backleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/right_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/nose.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_chibi_tree_golem_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/amogus/mob.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/tail_tip.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/body_fur.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/amogus.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_otter_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_wing_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/right_ear.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/left_toes.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_ear.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/torso.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_chibi_fox.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/corgi/nocsy_corgi_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_wing.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_fall_drakonin_egg.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_hand.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/front_leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/horn_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/tail_half.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/toffy_death_spirit.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/front_leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/chest.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_foot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/right_front_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/witch_hat_sleep.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_corgi_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/ear_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_wing.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_fall_drakonin_baby_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/left_frontfoot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/head_eyes_closed.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_wing.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/hat.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/right_backarm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_chibi_salamander_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/mouth.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/toy_bone.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/ear_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_otter_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_backfoot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_foot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_fairy_drakonin_egg.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/left_hair_mesh.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/utah_raptor_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_wing.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/back_foot_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_fluffy_ram_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/tail_mid.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/ears.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/wing_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/horn_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/front_foot_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/shaders/core/rendertype_entity_translucent.vsh
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/right_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_tibia.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/slim_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/arm_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/slim_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_fairy_drakonin_baby_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_magic_cat.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/left_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/right_frontleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/tail_mid.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/left_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/utahraptor_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/left_fronttibia.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/front_leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/slim_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_death_spirit_ball/anchor_body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_spooky_witch_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/chest.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/chest.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_eyebrow.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_otter_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/left_ear.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/back_leg_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/death_spirit/nocsy_death_spirit_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/sphere.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/toy_bone.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/tofnocsy_phoenix_baby_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/back_leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_spooky_chibi_witch.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_fairy_drakonin_baby_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/horn_right.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/right_hand.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_foot.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_backtibia.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/back_leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/left_backtibia.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/textures/nocsy/nocsy_chibi_fox_icon.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/ears2.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/left_backleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_corgi.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/left_front_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/right_fronttibia.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/chest.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_djinn_dragon/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/back_foot_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/toffy_cat_witch_hat.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_chibi_salamender.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_salamender/left_hand.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/left_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/right_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_otter_v2/back_leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_baby/right_backleg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_fox/front_leg_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fall_drakonin_egg/egg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/nocsy_djinn_dragon_icon.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/item/nocsy/corgi/toy_bone.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_magic_cat/witch_hat.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/left_arm.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_fluffy_ram_chibi.png
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/tail_end.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/toffy_death_spirit/body.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/head.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_corgi/tongue.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/right_leg.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/minecraft/models/custom/entities/player/slim_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/tail.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/tofnocsy_phoenix_baby/torso.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_chibi_tree_golem/wand.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/locomotive/l.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_fluffy_ram/horn_left.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/models/nocsy_spooky_chibi_witch/hair_front.json
+[17:19:52] [Craft Scheduler Thread - 0 - ItemsAdder/WARN]: [ItemsAdder] File compression skipped: duplicate entry: assets/modelengine/textures/entity/nocsy_chibi_tree_golem.png
+[17:19:53] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:53] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder]  
+[17:19:53] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Saved into /서버팩/plugins/ItemsAdder/output/generated.zip
+[17:19:53] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Compressed in 1399ms
+[17:19:53] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Applying to every player... 
+[17:19:53] [Craft Scheduler Thread - 0 - ItemsAdder/INFO]: [ItemsAdder] [Pack] Applied to 1 players
