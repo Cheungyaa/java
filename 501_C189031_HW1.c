@@ -18,6 +18,8 @@ int main() {
         else if (string[i] >= 1.25 && string[i] < 2.5) { printf("101 "); }
         else if (string[i] >= 2.5 && string[i] < 3.75) { printf("110 "); }
         else if (string[i] >= 3.75 && string[i] <= 5) { printf("111 "); }
+        else if (string[i] >= 0 && string[i] < 1.25) { printf("100 "); }
+        else if (string[i] >= 0 && string[i] < 1.25) { printf("100 "); }
     }
 
     printf("\n");
